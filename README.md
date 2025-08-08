@@ -1,53 +1,65 @@
-## Hi there 👋
-<!-- Profile Banner -->
-![Welcome Banner](https://your-image-link/banner.png)
+<h1 align="center">Hi 👋, I'm Sujithkumar</h1>
+<h3 align="center">A passionate Full-Stack Developer & Tech Explorer from India 🇮🇳</h3>
 
-# Hi there 👋, I'm [Your Name]!
-
-## 🚀 About Me
-- 🔭 I’m currently working on exciting [Project Name](link)
-- 🌱 I’m learning [Tech/Language/Framework]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
-- 😄 Pronouns: [Your Pronouns]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0F68C0&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Tech+Educator+%26+Builder" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![Your github stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=issues&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+### 👨‍💻 About Me
+
+- 🌱 Currently building a **Digital Library System**, **AR Interior Designer App**, and exploring **Machine Learning**
+- 💬 Ask me about: `PHP`, `MySQL`, `Android (Kotlin)`, `Python`, `Statistics`, and `Data Science`
+- 🚀 I love turning ideas into working products that help people
+- ⚡ Fun fact: I learn fast, debug even faster ⚡
 
 ---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/yourID)
+### 🛠️ Tech Stack
+
+**Languages**  
+`PHP` `Kotlin` `Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+
+**Frameworks / Tools**  
+`Android Studio` `Visual Studio Code` `XAMPP` `Bootstrap` `MySQL` `phpMyAdmin` `GitHub` `Figma`
+
+**Fields of Interest**  
+`Full-Stack Web Development` `App Development` `Database Management` `Machine Learning` `AR Development`
 
 ---
 
-## 📫 Latest Projects
-- [Project One](https://github.com/your-github-username/project-one): Short description here
-- [Project Two](https://github.com/your-github-username/project-two): Short description here
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujithkumar&show_icons=true&theme=tokyonight" alt="Sujith's GitHub stats" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujithkumar&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithkumar&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
 
 ---
 
-## 🔗 Blogs
-<!-- Replace with your blog RSS or manual links -->
-- [Latest Blog Post](https://yourblog.com/latest)
-- [Second Blog Post](https://yourblog.com/second)
+### 🚀 Featured Projects
+
+- 💻 [Digital Library System](https://github.com/sujithkumar/digital-library-system) – PHP + MySQL + Bootstrap
+- 📱 [AR Interior Designer App](https://github.com/sujithkumar/ar-interior-designer) – Kotlin + PHP + MySQL
+- 📊 [Data Science Portfolio](https://github.com/sujithkumar/data-science-projects) – Python + Pandas + ML
 
 ---
 
-<!-- Visitor Counter -->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+### 📫 Connect with me
 
-<!-- Dynamic Widgets & Games (optional) -->
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical)](https://git.io/streak-stats)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sujithkumar)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujithkumar@gmail.com)
 
 ---
 
-**_Thanks for visiting my profile!_**
-
+<p align="center">
+  Made with ❤️ by <strong>Sujith Kumar</strong>
+</p>
