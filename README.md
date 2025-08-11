@@ -7,17 +7,12 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me & Education
 
 - 💻 Skilled in **PHP**, **Kotlin**, **MySQL**, **Python**, **Bootstrap**
 - 📊 Experienced with **Data Cleaning**, **Visualization**, and **Analysis**
 - 🌱 Currently learning **Machine Learning**
 - 🛠️ Passionate about building apps & analyzing data to solve real-world problems
-
----
-
-## 🎓 Education & Certifications
-
 - 🎓 **Bachelor’s Degree in Computer Science**
 - 📜 Certified in:
   - **Python for Data Analysis**
@@ -49,7 +44,7 @@
 I specialize in building **end-to-end applications** — from designing responsive frontends to creating secure and scalable backends. My full-stack workflow includes **frontend design, backend API development, database management, and deployment**.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,kotlin,mysql,python,bootstrap,html,css,js,java,androidstudio,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=php,kotlin,mysql,python,bootstrap,html,css,java,androidstudio,vscode,git,github" />
 </p>
 
 ---
