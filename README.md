@@ -12,7 +12,6 @@
 - 💻 Skilled in **PHP**, **Kotlin**, **MySQL**, **Python**, **Bootstrap**
 - 📊 Experienced with **Data Cleaning**, **Visualization**, and **Analysis**
 - 🌱 Currently learning **Machine Learning**
-- 🛠️ Passionate about building apps & analyzing data to solve real-world problems
 - 🎓 **Bachelor’s Degree in Computer Science**
 - 📜 Certified in:
   - **Python for Data Analysis**
@@ -39,12 +38,28 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills, Technologies & Tools
 
-I specialize in building **end-to-end applications** — from designing responsive frontends to creating secure and scalable backends. My full-stack workflow includes **frontend design, backend API development, database management, and deployment**.
+I work across the full technology stack, leveraging a mix of programming languages, libraries, tools, platforms, and databases to build robust and scalable applications.
 
+### Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,kotlin,mysql,python,bootstrap,html,css,java,androidstudio,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,kotlin,python,java,html,css" />
+</p>
+
+### Libraries & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,pandas,numpy,matplotlib,scikitlearn,pytorch,tensorflow,scipy,seaborn,flask,nltk" />
+</p>
+
+### Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,jupyter,node-red" />
+</p>
+
+### Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
