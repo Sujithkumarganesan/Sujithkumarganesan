@@ -47,24 +47,24 @@
 I work across the full technology stack, leveraging a mix of programming languages, libraries, tools, platforms, and databases to build robust and scalable applications.
 
 ### Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,kotlin,python,java,html,css" alt="Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,kotlin,python,java,html,css" alt="Languages" />
 
 ### Libraries & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,pandas,numpy,matplotlib,scikitlearn,pytorch,tensorflow,scipy,seaborn,flask,nltk" alt="Libraries & Frameworks" />
+<p>
+  <img src="https://img.icons8.com/color/48/pandas.png" height="40" alt="pandas" /> 
+  <img src="https://img.icons8.com/color/48/numpy.png" height="40" alt="numpy" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/128px-Matplotlib_icon.svg.png" height="40" alt="matplotlib" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="40" alt="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="40" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=flask,nltk" alt="Libraries & Frameworks" />
 </p>
 
 ### Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,jupyter,node-red" alt="Tools & Platforms" />
-</p>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,jupyter,node-red" alt="Tools & Platforms" />
 
 ### Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
 
 ---
 
