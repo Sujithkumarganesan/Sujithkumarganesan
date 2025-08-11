@@ -11,17 +11,8 @@
 
 - 💻 Skilled in **PHP**, **Kotlin**, **MySQL**, **Python**, **Bootstrap**
 - 📊 Experienced with **Data Cleaning**, **Visualization**, and **Analysis**
-- 🌱 Currently learning **Machine Learning** & **Cloud Integration**
+- 🌱 Currently learning **Machine Learning**
 - 🛠️ Passionate about building apps & analyzing data to solve real-world problems
-- ⚡ Fun fact: I can turn coffee ☕ into clean code
-
----
-
-## 🚀 Current Projects
-
-- 📚 **Digital Library System** – PHP, MySQL, Bootstrap  
-- 🏠 **AR Interior Designer App** – Kotlin, PHP Backend, MySQL  
-- 📈 **Data Science Portfolio** – Python, Pandas, NumPy, Matplotlib  
 
 ---
 
@@ -35,7 +26,27 @@
 
 ---
 
+## 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:sujithkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sujithkumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/sujithkumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 🚀 Current Projects
+
+- 📚 **Digital Library System** – PHP, MySQL, Bootstrap  
+- 🏠 **AR Interior Designer App** – Kotlin, PHP Backend, MySQL  
+- 📈 **Data Science Portfolio** – Python, Pandas, NumPy, Matplotlib  
+
+---
+
 ## 🛠️ Languages & Tools
+
+I specialize in building **end-to-end applications** — from designing responsive frontends to creating secure and scalable backends. My full-stack workflow includes **frontend design, backend API development, database management, and deployment**.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,kotlin,mysql,python,bootstrap,html,css,js,java,androidstudio,vscode,git,github,figma" />
@@ -63,15 +74,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujithkumar&theme=radical&hide_border=true" width="95%"/>
-</p>
-
----
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:sujithkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sujithkumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
