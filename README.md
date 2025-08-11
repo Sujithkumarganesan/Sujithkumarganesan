@@ -1,65 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sujithkumar</h1>
-<h3 align="center">A passionate Full-Stack Developer & Tech Explorer from India 🇮🇳</h3>
+<h1 align="center">Hey 👋, I'm Sujith Kumar</h1>
+<h3 align="center">🚀 Full-Stack Developer | 📊 Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0F68C0&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Tech+Educator+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D53D&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Analyst;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-- 🌱 Currently building a **Digital Library System**, **AR Interior Designer App**, and exploring **Machine Learning**
-- 💬 Ask me about: `PHP`, `MySQL`, `Android (Kotlin)`, `Python`, `Statistics`, and `Data Science`
-- 🚀 I love turning ideas into working products that help people
-- ⚡ Fun fact: I learn fast, debug even faster ⚡
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-`PHP` `Kotlin` `Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
-
-**Frameworks / Tools**  
-`Android Studio` `Visual Studio Code` `XAMPP` `Bootstrap` `MySQL` `phpMyAdmin` `GitHub` `Figma`
-
-**Fields of Interest**  
-`Full-Stack Web Development` `App Development` `Database Management` `Machine Learning` `AR Development`
+- 💻 Skilled in **PHP**, **Kotlin**, **MySQL**, **Python**, **Bootstrap**
+- 📊 Experienced with **Data Cleaning**, **Visualization**, and **Analysis**
+- 🌱 Currently learning **Machine Learning** & **Cloud Integration**
+- 🛠️ Passionate about building apps & analyzing data to solve real-world problems
+- ⚡ Fun fact: I can turn coffee ☕ into clean code
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Current Projects
+
+- 📚 **Digital Library System** – PHP, MySQL, Bootstrap  
+- 🏠 **AR Interior Designer App** – Kotlin, PHP Backend, MySQL  
+- 📈 **Data Science Portfolio** – Python, Pandas, NumPy, Matplotlib  
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Bachelor’s Degree in Computer Science**
+- 📜 Certified in:
+  - **Python for Data Analysis**
+  - **Full-Stack Web Development**
+  - **Database Management Systems**
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujithkumar&show_icons=true&theme=tokyonight" alt="Sujith's GitHub stats" height="180">
+  <img src="https://skillicons.dev/icons?i=php,kotlin,mysql,python,bootstrap,html,css,js,java,androidstudio,vscode,git,github,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujithkumar&show_icons=true&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujithkumar&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithkumar&theme=radical&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithkumar&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithkumar&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 📈 Activity Graph
 
-- 💻 [Digital Library System](https://github.com/sujithkumar/digital-library-system) – PHP + MySQL + Bootstrap
-- 📱 [AR Interior Designer App](https://github.com/sujithkumar/ar-interior-designer) – Kotlin + PHP + MySQL
-- 📊 [Data Science Portfolio](https://github.com/sujithkumar/data-science-projects) – Python + Pandas + ML
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujithkumar&theme=radical&hide_border=true" width="95%"/>
+</p>
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sujithkumar)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujithkumar@gmail.com)
+<p align="center">
+  <a href="mailto:sujithkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sujithkumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Sujith Kumar</strong>
+  <img src="https://komarev.com/ghpvc/?username=sujithkumar&label=Profile+Views&color=brightgreen&style=flat" alt="Sujith Kumar" />
+</p>
+
+<p align="center">
+  ⚡ Crafted with passion & code by <strong>Sujith Kumar</strong>
 </p>
