@@ -8,14 +8,13 @@
 ---
 
 ## 🧠 About Me & Education
-
 - 💻 Skilled in **PHP**, **Kotlin**, **MySQL**, **Python**, **Bootstrap**
 - 📊 Experienced with **Data Cleaning**, **Visualization**, and **Analysis**
 - 🌱 Currently learning **Machine Learning**
 - 🎓 **Bachelor’s Degree in Computer Science**
-- 📜 Certified in:
-  - **Python for Data Analysis**
-  - **Full-Stack Web Development**
+- 📜 Certified in:  
+  - **Python for Data Analysis**  
+  - **Full-Stack Web Development**  
   - **Database Management Systems**
 
 ---
@@ -23,15 +22,20 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:sujithkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sujithkumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/sujithkumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:sujithkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/sujithkumar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sujithkumar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Current Projects
-
 - 📚 **Digital Library System** – PHP, MySQL, Bootstrap  
 - 🏠 **AR Interior Designer App** – Kotlin, PHP Backend, MySQL  
 - 📈 **Data Science Portfolio** – Python, Pandas, NumPy, Matplotlib  
@@ -44,52 +48,48 @@ I work across the full technology stack, leveraging a mix of programming languag
 
 ### Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,kotlin,python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,kotlin,python,java,html,css" alt="Languages" />
 </p>
 
 ### Libraries & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,pandas,numpy,matplotlib,scikitlearn,pytorch,tensorflow,scipy,seaborn,flask,nltk" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,pandas,numpy,matplotlib,scikitlearn,pytorch,tensorflow,scipy,seaborn,flask,nltk" alt="Libraries & Frameworks" />
 </p>
 
 ### Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,jupyter,node-red" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,jupyter,node-red" alt="Tools & Platforms" />
 </p>
 
 ### Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujithkumar&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujithkumar&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithkumar&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithkumar&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithkumar&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithkumar&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujithkumar&theme=radical&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujithkumar&theme=radical&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujithkumar&label=Profile+Views&color=brightgreen&style=flat" alt="Sujith Kumar" />
+  <img src="https://komarev.com/ghpvc/?username=sujithkumar&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
